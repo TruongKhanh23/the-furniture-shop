@@ -114,7 +114,7 @@ export default {
     name: "SignupView",
     methods: {
         setPageTitle() {
-            document.title = "Register | Trendy Timber";
+            document.title = "Register | The Furniture";
         }
     },
     beforeMount() {

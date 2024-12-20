@@ -1,13 +1,13 @@
-# **Trendy Timber E-Commerce Website**
+# **The Furniture E-Commerce Website**
 
-**Trendy Timber** is an open-source home furniture e-commerce web app built with **Vue.js**.
+**The Furniture** is an open-source home furniture e-commerce web app built with **Vue.js**.
 
-**Website :** visit [https://mahendra-pooniya.netlify.app/](www.mahendra-pooniya.netlify.app/)
+**Website :** visit [https://truongkhanh23.vercel.app/](www.mahendra-pooniya.netlify.app/)
 
 ## **Overview**
 
 
-**Trendy Timber** aims to provide a seamless and user-friendly experience for browsing and purchasing home furniture. The project focuses on creating a secure platform for users to discover, explore, and shop for high-quality home and office furnishings and decorations.
+**The Furniture** aims to provide a seamless and user-friendly experience for browsing and purchasing home furniture. The project focuses on creating a secure platform for users to discover, explore, and shop for high-quality home and office furnishings and decorations.
 
 ## **Tech Stack**
 
@@ -27,7 +27,7 @@
 
 ## **Installation**
 
-Follow these steps to set up **Trendy Timber** locally:
+Follow these steps to set up **The Furniture** locally:
 
 ### Prerequisites
 
@@ -73,16 +73,9 @@ Follow these steps to set up **Trendy Timber** locally:
 
 Contributions are welcomed, for further modifications, improvements, or any questions, feel free to reach out to me via -
 
-- **Email:** [mahendrapuniya92@gmail.com](mailto:mahendrapuniya92@gmail.com)
-- **Portfolio:** [www.MahendraPuniya.com](https://mahendra-pooniya.netlify.app/)
-- **LinkedIn:** [www.linkedin.com/in/pooniyamahendra](https://www.linkedin.com/in/pooniyamahendra/)
-- **Git-hub:** [www.github.com/mahendra2811](https://github.com/mahendra2811)
-- **Leet-code:** [www.leetcode.com/mahendra92/](https://leetcode.com/mahendra92/)
-
-## **License**
-
-This project is licensed under the Open Modification License, allowing for modifications. However, please ensure that any modified projects do not use the same name due to trademark considerations. See the [LICENSE](LICENSE) file for details.
-
+- **Email:** [truongnguyenkhanh230800@gmail.com](mailto:mahendrapuniya92@gmail.com)
+- **Portfolio:** [www.truongkhanh23.com](https://truongkhanh23.vercel.app/)
+- **Git-hub:** [www.github.com/TruongKhanh23](https://github.com/TruongKhanh23)
 
 ## **Screenshots **
 

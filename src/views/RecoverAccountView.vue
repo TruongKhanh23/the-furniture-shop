@@ -93,7 +93,7 @@ export default {
     name: "RecoverAccountView",
     methods: {
         setPageTitle() {
-            document.title = "Recover Your Account | Trendy Timber";
+            document.title = "Recover Your Account | The Furniture";
         }
     },
     beforeMount() {

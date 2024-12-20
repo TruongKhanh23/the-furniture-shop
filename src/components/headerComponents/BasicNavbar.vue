@@ -13,7 +13,7 @@
     aria-label="Offcanvas navbar large">
     <div class="container">
 
-      <a class="navbar-brand text-white" href="#">Trendy Timber </a>
+      <a class="navbar-brand text-white" href="#">The Furniture </a>
 
       <!-- Navbar-toggler -->
       <button class="navbar-toggler border-0 fs-1 shadow-none" type="button" data-bs-toggle="offcanvas"

@@ -154,7 +154,7 @@ export default {
     name: "ShoppingcartView",
     methods: {
         setPageTitle() {
-            document.title = "Shopping Cart | Trendy Timber";
+            document.title = "Shopping Cart | The Furniture";
         }
     },
     beforeMount() {

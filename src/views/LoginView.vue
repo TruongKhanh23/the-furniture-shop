@@ -113,7 +113,7 @@ export default {
     },
     methods: {
         setPageTitle() {
-            document.title = "Login | Trendy Timber";
+            document.title = "Login | The Furniture";
         }
     },
     beforeMount() {

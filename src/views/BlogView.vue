@@ -141,7 +141,7 @@ export default {
     },
     methods: {
         setPageTitle() {
-            document.title = "Blog | Trendy Timber";
+            document.title = "Blog | The Furniture";
         }
     },
     beforeMount() {

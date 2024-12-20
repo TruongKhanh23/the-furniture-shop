@@ -137,15 +137,15 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                 </span>
             </div>
             <div class="content row row-cols-2 row-cols-lg-5 d-flex justify-content-between align-items-stretch">
-                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="73.23"
+                <ProductItemCard product-title="Kruzo Aero Chair" product-category="The Furniture" product-price="73.23"
                     product-discount="" product-image="/assets/images/product-4.png" class="col-6 col-lg-2 mx-lg-0 mx-0" />
-                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="73.23"
+                <ProductItemCard product-title="Kruzo Aero Chair" product-category="The Furniture" product-price="73.23"
                     product-discount="" product-image="/assets/images/product-5.png" class="col-6 col-lg-2 mx-lg-0 mx-0" />
-                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="73.23"
+                <ProductItemCard product-title="Kruzo Aero Chair" product-category="The Furniture" product-price="73.23"
                     product-discount="" product-image="/assets/images/product-6.png" class="col-6 col-lg-2 mx-lg-0 mx-0" />
-                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="73.23"
+                <ProductItemCard product-title="Kruzo Aero Chair" product-category="The Furniture" product-price="73.23"
                     product-discount="" product-image="/assets/images/product-7.png" class="col-6 col-lg-2 mx-lg-0 mx-0" />
-                <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber" product-price="73.23"
+                <ProductItemCard product-title="Kruzo Aero Chair" product-category="The Furniture" product-price="73.23"
                     product-discount="" product-image="/assets/images/product-5.png" class="col-6 col-lg-2 mx-lg-0 mx-0" />
             </div>
         </div>
@@ -201,7 +201,7 @@ export default {
     name: "ProductView",
     methods: {
         setPageTitle() {
-            document.title = "Product Name | Trendy Timber";
+            document.title = "Product Name | The Furniture";
         }
     },
     beforeMount() {
