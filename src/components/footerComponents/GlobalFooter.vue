@@ -17,7 +17,7 @@ footer {
         <div class="container py-5 pb-0">
             <div class="row">
                 <div class="col-12 col-md">
-                    <span class="logo logo-brand">Trendy Timber </span>
+                    <span class="logo logo-brand">The Furniture </span>
                     <small class="d-block mb-3 text-body-secondary">© 2017–2024</small>
                 </div>
 
@@ -92,7 +92,7 @@ footer {
 
             <div class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
                 <div class="col-md-4 d-flex align-items-center">
-                    <span class="mb-3 mb-md-0 text-body-secondary opacity-75 small fw-medium">Copyright &copy;2024 <a href="https://mahendra-pooniya.netlify.app/" >Mahendra singh puniya</a> 
+                    <span class="mb-3 mb-md-0 text-body-secondary opacity-75 small fw-medium">Copyright &copy;2024 <a href="https://truongkhanh23.vercel.app/" >Truong Nguyen Khanh</a> 
                         All rights
                         reserved.</span>
                 </div>

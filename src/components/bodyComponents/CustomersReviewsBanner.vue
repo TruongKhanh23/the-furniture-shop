@@ -75,9 +75,9 @@ export default {
     name: "CustomersReviewsBanner",
     data() {
         return {
-            tempComment1: "I recently purchased a dining set from Trendy Timber, and I couldn't be happier with my experience. The quality of the furniture surpassed my expectations, and the customer service was outstanding. From start to finish, it was a seamless process, and I highly recommend Trendy Timber to anyone in search of high-quality furniture.",
-            tempComment2: "I stumbled upon Trendy Timber while searching for a new sofa, and I'm so glad I did. The selection of furniture was impressive, and I found the perfect piece at a great price. The shopping experience was easy, and the delivery was prompt. I'm thrilled with my purchase and will definitely be a repeat customer.",
-            tempComment3: "I had a wonderful experience shopping at Trendy Timber. The customer service team was incredibly helpful and responsive, assisting me every step of the way. They went above and beyond to ensure I found the perfect furniture for my home, and I couldn't be more satisfied with the outcome. Thank you, Trendy Timber!",
+            tempComment1: "I recently purchased a dining set from The Furniture, and I couldn't be happier with my experience. The quality of the furniture surpassed my expectations, and the customer service was outstanding. From start to finish, it was a seamless process, and I highly recommend The Furniture to anyone in search of high-quality furniture.",
+            tempComment2: "I stumbled upon The Furniture while searching for a new sofa, and I'm so glad I did. The selection of furniture was impressive, and I found the perfect piece at a great price. The shopping experience was easy, and the delivery was prompt. I'm thrilled with my purchase and will definitely be a repeat customer.",
+            tempComment3: "I had a wonderful experience shopping at The Furniture. The customer service team was incredibly helpful and responsive, assisting me every step of the way. They went above and beyond to ensure I found the perfect furniture for my home, and I couldn't be more satisfied with the outcome. Thank you, The Furniture!",
         }
     },
     components: {

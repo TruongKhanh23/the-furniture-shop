@@ -228,11 +228,11 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                 <div class="row row-cols-1 row-cols-lg-2 align-items-stretch">
                     <div class="col mx-0 preload-rs ">
                         <MediumImageBanner class="w-100 mx-0" banner-title="Apparels Collection"
-                            banner-description="Trendy Timber" banner-image="/assets/images/sli-h1.webp" />
+                            banner-description="The Furniture" banner-image="/assets/images/sli-h1.webp" />
                     </div>
                     <div class="col mx-0 preload-rs ">
                         <MediumImageBanner class="w-100 mx-0" banner-title="Chair Collection"
-                            banner-description="Trendy Timber" banner-image="/assets/images/slide-3.png" />
+                            banner-description="The Furniture" banner-image="/assets/images/slide-3.png" />
                     </div>
                 </div>
             </div>
@@ -268,13 +268,13 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                                     <div
                                         class="products-list row row-cols-1 row-cols-lg-3 d-flex justify-content  align-items-stretch">
 
-                                        <ProductItemCard product-title="Ergonomic Chair" product-category="Trendy Timber"
+                                        <ProductItemCard product-title="Ergonomic Chair" product-category="The Furniture"
                                             product-price="2300" product-discount=""
                                             product-image="/assets/images/product-3.png" class="col-11 col-lg-4 d-block" />
-                                        <ProductItemCard product-title="Nordic Chair" product-category="Trendy Timber"
+                                        <ProductItemCard product-title="Nordic Chair" product-category="The Furniture"
                                             product-price="3500" product-discount=""
                                             product-image="/assets/images/product-1.png" class="col-11 col-lg-4 d-block" />
-                                        <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber"
+                                        <ProductItemCard product-title="Kruzo Aero Chair" product-category="The Furniture"
                                             product-price="7600" product-discount=""
                                             product-image="/assets/images/product-2.png" class="col-11 col-lg-4 d-block" />
                                     </div>
@@ -284,13 +284,13 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                                     <div
                                         class="products-list row row-cols-1 row-cols-lg-3 d-flex justify-content  align-items-stretch">
 
-                                        <ProductItemCard product-title="Ergonomic Chair" product-category="Trendy Timber"
+                                        <ProductItemCard product-title="Ergonomic Chair" product-category="The Furniture"
                                             product-price="2300" product-discount=""
                                             product-image="/assets/images/product-3.png" class="col-11 col-lg-4 d-block" />
-                                        <ProductItemCard product-title="Nordic Chair" product-category="Trendy Timber"
+                                        <ProductItemCard product-title="Nordic Chair" product-category="The Furniture"
                                             product-price="3500" product-discount=""
                                             product-image="/assets/images/product-1.png" class="col-11 col-lg-4 d-block" />
-                                        <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber"
+                                        <ProductItemCard product-title="Kruzo Aero Chair" product-category="The Furniture"
                                             product-price="7600" product-discount=""
                                             product-image="/assets/images/product-2.png" class="col-11 col-lg-4 d-block" />
                                     </div>
@@ -300,13 +300,13 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                                     <div
                                         class="products-list row row-cols-1 row-cols-lg-3 d-flex justify-content  align-items-stretch">
 
-                                        <ProductItemCard product-title="Ergonomic Chair" product-category="Trendy Timber"
+                                        <ProductItemCard product-title="Ergonomic Chair" product-category="The Furniture"
                                             product-price="2300" product-discount=""
                                             product-image="/assets/images/product-3.png" class="col-11 col-lg-4 d-block" />
-                                        <ProductItemCard product-title="Nordic Chair" product-category="Trendy Timber"
+                                        <ProductItemCard product-title="Nordic Chair" product-category="The Furniture"
                                             product-price="3500" product-discount=""
                                             product-image="/assets/images/product-1.png" class="col-11 col-lg-4 d-block" />
-                                        <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy Timber"
+                                        <ProductItemCard product-title="Kruzo Aero Chair" product-category="The Furniture"
                                             product-price="7600" product-discount=""
                                             product-image="/assets/images/product-2.png" class="col-11 col-lg-4 d-block" />
                                     </div>
@@ -395,16 +395,16 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                     <span class="fs-2 fw-semibold">Latest Arrivals</span>
                 </div>
                 <div class="content row row-cols-1 row-cols-lg-4 align-items-stretch">
-                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy timber" product-price="1200"
+                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="The Furniture" product-price="1200"
                         product-discount="" product-image="/assets/images/product-8.png"
                         class="col-6 col-lg-3 preload-rs mx-auto " />
-                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy timber" product-price="1700"
+                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="The Furniture" product-price="1700"
                         product-discount="" product-image="/assets/images/product-9.png"
                         class="col-6 col-lg-3 preload-rs mx-auto " />
-                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy timber" product-price="2300"
+                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="The Furniture" product-price="2300"
                         product-discount="" product-image="/assets/images/product-10.png"
                         class="col-6 col-lg-3 preload-rs mx-auto " />
-                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="Trendy timber" product-price="2500"
+                    <ProductItemCard product-title="Kruzo Aero Chair" product-category="The Furniture" product-price="2500"
                         product-discount="" product-image="/assets/images/product-11.png"
                         class="col-6 col-lg-3 preload-rs mx-auto " />
                 </div>
@@ -437,7 +437,7 @@ export default {
     name: "ShopView",
     methods: {
         setPageTitle() {
-            document.title = "Shop | Trendy Timber";
+            document.title = "Shop | The Furniture";
         }
     },
     beforeMount() {

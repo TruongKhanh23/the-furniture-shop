@@ -165,7 +165,7 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                             Our mission is to make highquality home and office
                             furnitures easily accesible for everyone.
                         </h1>
-                        <p class="lead fw-normal text-white-50 mb-4">Trendy Timber Store was built on the idea that high quality,
+                        <p class="lead fw-normal text-white-50 mb-4">The Furniture Store was built on the idea that high quality,
                             functional and good looking and products should be available and affordable to everyone. Use our
                             platform to search and purchase high quality products.</p>
                         <LinkButton btn-theme="secondary-btn" btn-label="Start shopping Now" btn-url=""
@@ -187,7 +187,7 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                 <div class="col-lg-5 ps-0 ms-0 preload-rs s-anim">
                     <div class="header">
                         <h1 class="h1 fw-bolder">Why Choose Us</h1>
-                        <p class="fw-normal lead mb-3">At Trendy Timber, we guarantee top-notch service and satisfaction, ensuring an exceptional shopping experience for every customer.</p>
+                        <p class="fw-normal lead mb-3">At The Furniture, we guarantee top-notch service and satisfaction, ensuring an exceptional shopping experience for every customer.</p>
                     </div>
                     <div class="row gx-5">
                         <div class="col-6 col-md-6 mb-5 mb-lg-0 my-4">
@@ -253,7 +253,7 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
 
                 <div class="col-lg-5 mt-5 mt-lg-0 pt-5 pt-lg-0 preload-rs s-anim">
                     <h2 class="fw-bolder">Our Commitment to Sustainability</h2>
-                    <p class="lead fw-normal text-muted mb-0">At Trendy Timber, we're not just passionate about furniture; we're committed to sustainability. We source our materials responsibly, prioritize eco-friendly manufacturing practices, and strive to minimize our environmental footprint at every step. By choosing Trendy Timber, you're not only investing in high-quality furniture but also supporting our efforts to create a more sustainable future for generations to come.</p>
+                    <p class="lead fw-normal text-muted mb-0">At The Furniture, we're not just passionate about furniture; we're committed to sustainability. We source our materials responsibly, prioritize eco-friendly manufacturing practices, and strive to minimize our environmental footprint at every step. By choosing The Furniture, you're not only investing in high-quality furniture but also supporting our efforts to create a more sustainable future for generations to come.</p>
                 </div>
             </div>
         </div>
@@ -267,7 +267,7 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
         <div class="container px-5 my-5 py-5">
             <div class="text-center">
                 <h2 class="fw-bolder">Our Team</h2>
-                <p class="lead fw-normal text-muted mb-5">Meet the dedicated individuals who bring Trendy Timber to life. From visionary leaders to talented designers and customer support specialists, our team is committed to providing you with the best shopping experience possible.</p>
+                <p class="lead fw-normal text-muted mb-5">Meet the dedicated individuals who bring The Furniture to life. From visionary leaders to talented designers and customer support specialists, our team is committed to providing you with the best shopping experience possible.</p>
             </div>
             <div class="row gx-5 row-cols-1 row-cols-sm-2 row-cols-xl-4 justify-content-center">
                 <div class="col mb-5 mb-xl-0 preload-rs s-anim">
@@ -275,7 +275,7 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                         <img class="img-fluid rounded-circle mb-4 px-4" src="/assets/images/person-1.png"
                             alt="Homello-img...">
                         <h5 class="fw-bolder">Ravina</h5>
-                        <span class="d-block position mb-4 text-black-50">Co-Founder, Trendy Timber</span>
+                        <span class="d-block position mb-4 text-black-50">Co-Founder, The Furniture</span>
                         <p class="mb-0 fw-semibold text-u"><a href="#" class="more dark">View Profile <span
                                     class="bi bi-arrow-right ms-2"></span></a>
                         </p>
@@ -286,7 +286,7 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                         <img class="img-fluid rounded-circle mb-4 px-4" src="/assets/images/person_2.jpg"
                             alt="Homello-img...">
                         <h5 class="fw-bolder">Karina</h5>
-                        <span class="d-block position mb-4 text-black-50">Co-Founder, Trendy Timber</span>
+                        <span class="d-block position mb-4 text-black-50">Co-Founder, The Furniture</span>
                         <p class="mb-0 fw-semibold text-u"><a href="#" class="more dark">View Profile <span
                                     class="bi bi-arrow-right ms-2"></span></a>
                         </p>
@@ -297,7 +297,7 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                         <img class="img-fluid rounded-circle mb-4 px-4" src="/assets/images/person_4.jpg"
                             alt="Homello-img...">
                         <h5 class="fw-bolder">Ranjeet</h5>
-                        <span class="d-block position mb-4 text-black-50">Co-Founder, Trendy Timber</span>
+                        <span class="d-block position mb-4 text-black-50">Co-Founder, The Furniture</span>
                         <p class="mb-0 fw-semibold text-u"><a href="#" class="more dark">View Profile <span
                                     class="bi bi-arrow-right ms-2"></span></a>
                         </p>
@@ -309,7 +309,7 @@ import GlobalFooter from '@/components/footerComponents/GlobalFooter.vue';
                         <img class="img-fluid rounded-circle mb-4 px-4" src="/assets/images/person_3.jpg"
                             alt="Homello-img...">
                         <h5 class="fw-bolder">Lakshman</h5>
-                        <span class="d-block position mb-4 text-black-50">Co-Founder, Trendy Timber</span>
+                        <span class="d-block position mb-4 text-black-50">Co-Founder, The Furniture</span>
                         <p class="mb-0 fw-semibold text-u"><a href="#" class="more dark">View Profile <span
                                     class="bi bi-arrow-right ms-2"></span></a>
                         </p>
@@ -348,7 +348,7 @@ export default {
     },
     methods: {
         setPageTitle() {
-            document.title = "About Us | Trendy Timber";
+            document.title = "About Us | The Furniture";
         },
     },
     beforeMount() {
